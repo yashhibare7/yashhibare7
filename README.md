@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yash Hibare</h1>
-<h3 align="center">I'm Yash , a pre-final year undergraduate IT student at P.E.S. Modern College of Engineering. I'm a well-organized person seeking a career where I can develop my technical knowledge.</h3>
+<h3 align="center">I'm Yash , a final year undergraduate IT student at P.E.S. Modern College of Engineering. I'm a well-organized person seeking a career where I can develop my technical knowledge.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 - 🌱 I’m currently learning **IT core Subject,ReactJs,DS and Algorithms**
 
