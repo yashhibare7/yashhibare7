@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yash Hibare</h1>
-<h4 align="center">Yash is currently a Software Engineer Intern at miniOrange. He holds an undergraduate degree in Information Technology from P.E.S. Modern College of Engineering and has gained experience in various technical domains.</h4>
+<h4 align="center">Yash is currently a Software Engineer at miniOrange. He holds an undergraduate degree in Information Technology from P.E.S. Modern College of Engineering and has gained experience in various technical domains.</h4>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 - 🌱 I’m currently learning **IT core Subject, ReactJs, DS and Algorithms**
 
